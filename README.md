@@ -1,2 +1,2 @@
 # notion-cms
-A Content Management System in Notion
+A Content Management System for my blog in Notion
